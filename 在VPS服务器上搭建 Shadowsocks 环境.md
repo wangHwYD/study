@@ -3,7 +3,7 @@
 ### 一、准备
 * paypal
 
-因为国外的大部分网站支付方式都可以用paypal ，绑定一张银行卡和支付宝，就可以随意的买买买了。
+因为国外的大部分网站支付方式都可以用paypal ，绑定一张银行卡和支付宝，就可以随意的买买买买了。
 
 ### 二、市场行情
 #### 国内:(不详细介绍)
@@ -30,16 +30,16 @@ IT7官方旗下的低价VPS主机产品，拥有速度较好的西岸亚利桑�
 ### 配置对比
 |名字|最低配置|价格|
 |-----|-----|-----|
-|[vultr](https://www.vultr.com/)|25G SSD 1G内存 1CPU<br/> 1000G流量/月|5\$/月|
+|[vultr](https://www.vultr.com/)|25G SSD 1G内存 1CPU<br/> 1000G流量/月|5/月|
 |[SugarHosts](https://www.sugarhosts.com/zh-cn/vps/ssd-vps-hosting)|10G SSD 768M内存 1CPU <br/> 1000G流量/月|46￥/月|
-|[BandwagonHost（搬瓦工VPS）](https://bwh1.net/vps-hosting.php)|10G SSD 768M内存 1CPU<br/> 500G流量/月|19.99\$/年|
+|[BandwagonHost（搬瓦工VPS）](https://bwh1.net/vps-hosting.php)|10G SSD 768M内存 1CPU<br/> 500G流量/月|19.99/年|
 
 ### 购买选择
 
 从价格上看搬瓦工是最便宜的，但是如果只是看资料的话，那是够用的，如果想看youtobe，twitch等，不能看高清，也就480p - 720p 之间的水平。
 
 推荐购买vultr 大厂，速度快，价格实惠，可以随时停掉。
- 
+
 ### 节点选择
 
 首选节点：香港 ，新加坡 ，日本 ，韩国 (ping值 150-220 之间) 
