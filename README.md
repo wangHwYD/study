@@ -5,7 +5,8 @@
 
 #android
 ######[android signingConfigs打包配置](https://www.jianshu.com/p/62ac145ee0ad)
-######[Android Service真正的完全详解](https://www.jianshu.com/p/62ac145ee0ad)
+
+######[Android Service真正的完全详解](https://github.com/wangHwYD/study/blob/master/java/Service%E8%AF%A6%E8%A7%A3.md)
 
 
 
