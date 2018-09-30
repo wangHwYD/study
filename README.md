@@ -1,9 +1,11 @@
 # 收集的学习资料
+
 #[JAVA>>](https://github.com/wangHwYD/study/tree/master/java)
 
 
 
 #android
+
 ######[android signingConfigs打包配置](https://www.jianshu.com/p/62ac145ee0ad)
 
 ######[Android Service真正的完全详解](https://github.com/wangHwYD/study/blob/master/java/Service%E8%AF%A6%E8%A7%A3.md)
@@ -11,7 +13,12 @@
 ######[解决EditText导致输入法自动弹出](https://www.jianshu.com/p/670b9e494107)
 
 
-#[各种bug收集]()
+
+
+#bug收集(https://github.com/wangHwYD/study/blob/master/bug/bug.md)
+
+
+
 
 
 #Flutter
